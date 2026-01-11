@@ -1,1 +1,17 @@
-
+[
+  {
+    animalID:1,
+    animalName:"Red Deer",
+    animalPic:"/images/animal-id-1"
+  },
+  {
+    animalID:2,
+    animalName:"Wildcat",
+    animalPic:"/images/animal-id-2"
+  },
+  {
+    animalID:3,
+    animalName:"Red Squirrel",
+    animalPic:"/images/animal-id-3"
+  }
+]
