@@ -2,16 +2,16 @@
   {
     "animalID":1,
     "animalName":"Red Deer",
-    "animalPic":"/images/animal-id-1.jpg"
+    "animalPic":"https://raw.githubusercontent.com/MaybeATree/filehost/refs/heads/main/animal-id-1.jpg"
   },
   {
     "animalID":2,
     "animalName":"Wildcat",
-    "animalPic":"/images/animal-id-2.jpg"
+    "animalPic":"https://raw.githubusercontent.com/MaybeATree/filehost/refs/heads/main/animal-id-2.jpg"
   },
   {
     "animalID":3,
     "animalName":"Red Squirrel",
-    "animalPic":"/images/animal-id-3.jpg"
+    "animalPic":"https://raw.githubusercontent.com/MaybeATree/filehost/refs/heads/main/animal-id-3.jpg"
   }
 ]
